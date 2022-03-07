@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/Gustavo-Jezini/TypeScript-Study/issues"
   },
-  "homepage": "https://github.com/Gustavo-Jezini/TypeScript-Study#readme"
+  "homepage": "https://github.com/Gustavo-Jezini/TypeScript-Study#readme",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.13.0",
+    "@typescript-eslint/parser": "^5.13.0"
+  }
 }
