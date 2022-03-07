@@ -12,7 +12,7 @@ let z: unknown;
 
 z = '11';
 
-console.log(z + y);
+// console.log(z + y);
 // Ocorre um erro. O Unknown te força a fazer uma checagem
 
 // TSError: ⨯ Unable to compile TypeScript:
