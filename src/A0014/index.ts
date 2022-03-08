@@ -18,7 +18,7 @@ const pessoa: Pessoa = {
 }
 // Só da erro se eu nao usar nenhuma chave
 
-type Pessoa2 = TemNome & TemIdade & TemSobrenome
+type Pessoa2 = TemNome & TemIdade & TemSobrenome // AND
 
 const pessoa2: Pessoa2 = {
   idade: 20,
